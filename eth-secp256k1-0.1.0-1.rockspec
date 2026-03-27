@@ -1,8 +1,8 @@
 package = "eth-secp256k1"
-version = "dev-1"
+version = "0.1.0-1"
 source = {
   url = "git+https://github.com/DevElCuy/eth-secp256k1.git",
-  branch = "main"
+  tag = "v0.1.0"
 }
 description = {
   summary = "secp256k1 recovery helpers for Lua 5.1",
